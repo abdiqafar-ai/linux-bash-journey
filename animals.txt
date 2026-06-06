@@ -1,0 +1,11 @@
+cat
+dog
+cat
+lion
+dog
+cat
+lion
+cow
+camel
+leopard
+goat

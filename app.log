@@ -2,3 +2,8 @@ INFO Login success
 ERROR Database failed
 INFO User updated
 ERROR Server crashed
+INFO Login
+ERROR Database
+INFO User
+ERROR Disk
+ERROR Network
