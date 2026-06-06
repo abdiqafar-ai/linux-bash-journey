@@ -1,0 +1,4 @@
+Ali:Developer:Nairobi
+Sarah:Manager:Mombasa
+John:DevOps:Kisumu
+Fatima:HR:Nakuru

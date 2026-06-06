@@ -1,0 +1,5 @@
+web01:production
+web02:production
+web03:database
+db01:database
+db02:database

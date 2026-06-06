@@ -10,29 +10,29 @@ check_deployment(){
 }
 check_deployment
 
-# server_status(){
-#     server="web"
-#     echo "$server healthy"
-# }
-# server_status
+server_status(){
+    server="web"
+    echo "$server healthy"
+}
+server_status
 
-# ask_name(){
-#     read -p "Enter name: " name
-#     echo "Hello $name"
-# }
-# ask_name
+ask_name(){
+    read -p "Enter name: " name
+    echo "Hello $name"
+}
+ask_name
 
-# check_env(){
-#     read -p "Environment: " env
-#     env=$(echo "$env" | tr '[:upper:]' '[:lower:]')
-#     if [ "$env" = "production" ]
-#     then
-#         echo "Warning"
-#     else
-#         echo "Safe deployment"
-#     fi
-# }
-# check_env
+check_env(){
+    read -p "Environment: " env
+    env=$(echo "$env" | tr '[:upper:]' '[:lower:]')
+    if [ "$env" = "production" ]
+    then
+        echo "Warning"
+    else
+        echo "Safe deployment"
+    fi
+}
+check_env
 
 audit_servers(){
     for server in web db cache
