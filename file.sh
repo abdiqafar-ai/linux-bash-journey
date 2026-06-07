@@ -43,35 +43,35 @@
 #     fi
 # done < file.txt
 
-while IFS=":" read name role city
-do
-    echo "$name is a $role from $city"
-done < employees.txt
+# while IFS=":" read name role city
+# do
+#     echo "$name is a $role from $city"
+# done < employees.txt
 
-while IFS=":" read name email
-do
-    echo "Name: $name"
-    echo "Email: $email"
-    echo
-done < users.txt
+# while IFS=":" read name email
+# do
+#     echo "Name: $name"
+#     echo "Email: $email"
+#     echo
+# done < users.txt
 
-while IFS=":" read server environment
-do
-    echo "$server belongs to $environment"
-done < server.txt
+# while IFS=":" read server environment
+# do
+#     echo "$server belongs to $environment"
+# done < server.txt
 
-while IFS=":" read name class
-do
-  echo "Student: $name | Class: $class"
-done < students.txt
+# while IFS=":" read name class
+# do
+#   echo "Student: $name | Class: $class"
+# done < students.txt
 
-count=0
-while IFS=":" read name class
-do
-    if [ "$class" = "Grade5" ]
-    then
-        count=$((count + 1))
-    fi
-done < students.txt
+# count=0
+# while IFS=":" read name class
+# do
+#     if [ "$class" = "Grade5" ]
+#     then
+#         count=$((count + 1))
+#     fi
+# done < students.txt
 
-echo "Total Grade 5 students: $count"
+# echo "Total Grade 5 students: $count"
