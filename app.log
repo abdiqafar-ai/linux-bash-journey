@@ -7,3 +7,7 @@ ERROR Database
 INFO User
 ERROR Disk
 ERROR Network
+ERROR: Database connection failed
+ERROR Database failed
+Retrying...
+Connection restored

@@ -1,4 +1,4 @@
-Ali:Developer:Nairobi
-Sarah:Manager:Mombasa
-John:DevOps:Kisumu
-Fatima:HR:Nakuru
+Ahmed:Developer:Nairobi
+Hafsa:Designer:Mombasa
+Ali:Engineer:Garissa
+Siham:Manager:Nakuru

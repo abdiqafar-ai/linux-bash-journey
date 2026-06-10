@@ -1,0 +1,15 @@
+INFO Server started
+INFO User logged in
+ERROR Database failed
+INFO Backup completed
+ERROR Database failed
+ERROR Database failed
+ERROR Database failed
+ERROR Database failed
+Database failed ERROR 
+user1 success
+user2 failed
+user3 success
+2026-06-08 INFO Started
+2026-06-08 ERROR Disk full
+2026-06-08 WARNING Memory low

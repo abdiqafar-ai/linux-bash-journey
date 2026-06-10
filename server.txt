@@ -1,5 +1,5 @@
-web01:production
-web02:production
-web03:database
-db01:database
-db02:database
+web01:running
+web02:stopped
+web03:running
+db01:stopped
+db02:running

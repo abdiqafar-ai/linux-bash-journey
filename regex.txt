@@ -1,0 +1,10 @@
+cat
+cot
+cut
+dog
+bat
+user1
+user2
+admin
+ERROR Disk full
+WARNING Memory low
